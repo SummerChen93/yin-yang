@@ -1,4 +1,4 @@
-#yin-yang {
+#yinyang {
     width: 96px;
     box-sizing: content-box;
     height: 48px;
@@ -9,7 +9,7 @@
     border-radius: 100%;
     position: relative;
   }
-#yin-yang:before {
+#yinyang:before {
     content: "";
     position: absolute;
     top: 50%;
@@ -21,7 +21,7 @@
     height: 12px;
     box-sizing: content-box;
   }
-#yin-yang:after {
+#yinyang:after {
     content: "";
     position: absolute;
     top: 50%;
